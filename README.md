@@ -6,6 +6,6 @@ The notes will be partitioned into two main sets (for now): *problem solving* an
 
 ## Subjects
 
-* Problem Solving
-* Project Building
-* Miscellaneous
+* [Problem Solving](problem-solving)
+* [Project Building](project-building)
+* [Miscellaneous](miscellaneous)
