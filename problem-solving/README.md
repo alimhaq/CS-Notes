@@ -4,4 +4,4 @@ Code is an immensely useful tool. Computers are very powerful, and only continue
 
 ## Languages
 
-To solve problems, [Python](docs/python.md) will be the tool of choice.
+To solve problems, [Python](notes/python.md) will be the tool of choice.
