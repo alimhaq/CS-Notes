@@ -1,5 +1,5 @@
 # Python
 
-## Simple Explanation
+## Explanation
 
 ## Purpose
