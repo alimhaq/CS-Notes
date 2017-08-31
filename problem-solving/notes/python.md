@@ -10,7 +10,12 @@ Python is widely used in academia today, and has many applications in academia. 
 
 ## Pros & Cons
 
-
-
 ## Syntax
 
+## Built-in Data Structures
+
+## Commonly Used Functions
+
++, -, *, and % all work like you would expect them to; you can also utilize the + and * with strings just like in Ruby (for example, `'hey' * 3 => 'heyheyhey'`)
+
+## Differences from Ruby
