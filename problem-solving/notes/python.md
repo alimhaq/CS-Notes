@@ -16,6 +16,8 @@ Python is widely used in academia today, and has many applications in academia. 
 
 ## Commonly Used Functions
 
-+, -, *, and % all work like you would expect them to; you can also utilize the + and * with strings just like in Ruby (for example, `'hey' * 3 => 'heyheyhey'`)
+* `+, -, *, and %` all work like you would expect them to; you can also utilize the `+` and `*` with strings just like in Ruby (for example, `'hey' * 3 => 'heyheyhey'`)
+
+* `/` will return a float rather than an integer, even if the dividend is cleanly divided; if division which returns an integer is preferred, then use `//` instead
 
 ## Differences from Ruby
