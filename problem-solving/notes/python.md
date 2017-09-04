@@ -16,8 +16,12 @@ Python is widely used in academia today, and has many applications in academia. 
 
 ## Commonly Used Functions
 
-* `+, -, *, and %` all work like you would expect them to; you can also utilize the `+` and `*` with strings just like in Ruby (for example, `'hey' * 3 => 'heyheyhey'`)
+* `+, -, *, **, and %` all work like you would expect them to; you can also utilize the `+` and `*` with strings just like in Ruby (for example, `'hey' * 3 => 'heyheyhey'`); another interesting thing is that if the first operand is not included, Python will implicitly put 0 as the first operand
 
-* `/` will return a float rather than an integer, even if the dividend is cleanly divided; if division which returns an integer is preferred, then use `//` instead
+* you can take the modulo of something even with floats
+
+* `/` will return a float rather than an integer, even if the dividend is cleanly divided; if division which returns an integer is preferred, then use `//` instead (which essentially performs to functions, dividing and flooring)
+
+* there are a few bit operations we can do with Python
 
 ## Differences from Ruby
