@@ -23,3 +23,7 @@ CSS primarily relies on selectors in order to identify the elements for which to
 We can also import fonts which we can use in our website by importing from Google Fonts; we need to make sure to include this in the header of the HTML file, and then we can use it in the CSS file that is imported into the header.
 
 If you want to make comments in CSS, use /* and */. Any text in between them will be a comment.
+
+## JavaScript
+
+The way you add JavaScript to your html is through the script element, which has a src attribute (just like the img element). We want to add this to the body of our index.html HTML page, particularly at the bottom (usually we want to manipulate the rendered HTML elements in some way through JavaScript, )
