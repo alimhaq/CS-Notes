@@ -205,3 +205,17 @@ recall, make sure you are thinking about whether you have different instantiatio
 recall that strings are also objects (although I guess not really a data structure? kinda weird distinguishing it, but maybe because it is not a collection of data, just it’s own immutable thing)
 
 there are a couple methods to be aware of: .format(var1, var2, etc.) obviously, but also .startswith(str), which will check if the string starts with a particular string; char in or not in str, which works exactly like you would think; string.find(str) which will look and see if that string is inside of the other string, which will return the first index of the match where the string is found or -1 otherwise; and .join, which works similar to ruby, but takes the delimiter (the joiner) as the object it is called on and as an argument takes a list, e.g. delimiter.join(mylist) will join the list with whatever the delimiter string is
+
+instead of ! (bang), we write not in Python
+
+a lot of command line functionality can be accessed in python by importing the module os
+
+to get the current time and other various related things, import time
+
+there is a very convenient string method .replace(char_to_replace, char_to_replace_with) which makes it easy to replace something in a string
+
+while we have used the os module to create archives (in particular os.system to run in the terminal) it is actually more apt to use the zipfile or tarfile modules (which are built into python) to do this
+
+software development process: (1) What (Analysis) ; (2) How (Design) ; (3) Do It (Implementation) ; (4) Test (Testing and Debugging) ; (5) Use (Operation or Deployment) ; (6) Maintain (Refinement)
+
+strange: clarity on self ???
